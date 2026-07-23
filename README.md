@@ -1,5 +1,7 @@
 the repo is incomple. you can find how it look like in [directory_structure.txt](/directory_structure.txt)
 
+the train file is in [retrain.py](/xiaochun_data_4_11_22_2023/dataset/split and train/retrain.py)
+
 The goal of this project is to use data collect by MIC and IMU data to do reconization, you can find more info here
 https://docs.google.com/presentation/d/1lcTPnxFe2JT8OKlVd3GqUNlWWhBYevT8/edit?usp=sharing&ouid=109552043465733562677&rtpof=true&sd=true
 
@@ -20,7 +22,6 @@ and extracted each different set segmant of video for ground truth.
 I reformatted the IMU CSV files, 
 
 performed MFCC on the MIC data, 
-
 
 reformatted the MIC CSV files, 
 
