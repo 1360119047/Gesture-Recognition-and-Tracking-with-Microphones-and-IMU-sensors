@@ -2,7 +2,7 @@ the repo is incomple. you can find how it look like in [directory_structure.txt]
 
 the train file is in [retrain.py](/xiaochun_data_4_11_22_2023/dataset/split and train/retrain.py)
 
-The goal of this project is to use data collect by MIC and IMU data to do reconization, you can find more info here
+The goal of this project is to use data collect by MIC and IMU data to do reconization,
 
 I did 15 recordings, and each recording consists of 12 sets of transitions to the gesture. 
 
